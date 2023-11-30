@@ -42,6 +42,6 @@
 ## 📈 GitHub statistics
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kleviscoding&sshow_icons=true&theme=radical&count_private=true">
 
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleviscoding&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleviscoding&layout=compact&langs_count=8&theme=radical">
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
